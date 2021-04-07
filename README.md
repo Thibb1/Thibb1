@@ -6,17 +6,14 @@
 
 ### 🚩 Current Project: [epitech-projects][1]
 
-### 📚 Languages and tools
-
-<code><a href = "https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="20"
-src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a></code>
-<code><a href = "https://www.markdownguide.org/basic-syntax/"><img height="20" width="20"
-src="https://cdn.svgporn.com/logos/markdown.svg" style="filter: invert(1)"></a></code>
-<code><a href = "https://code.visualstudio.com/docs/introvideos/basics"><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a></code>
-<code><a href = "https://www.kali.org/"><img height="20" src="https://img.icons8.com/color/240/000000/kali-linux.png"></a></code>
-<code><a href = "https://www.perltutorial.org/"><img height="20"
-src="https://cdn.svgporn.com/logos/perl.svg"></a></code>
+> ### Languages and tools 📚
+>
+> <code><a href = "https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a></code>
+> <code><a href = "https://www.python.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a></code>
+> <code><a href = "https://www.markdownguide.org/basic-syntax/"><img height="20" width="20" src="https://cdn.svgporn.com/logos/markdown.svg" style="filter: invert(1)"></a></code>
+> <code><a href = "https://code.visualstudio.com/docs/introvideos/basics"><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a></code>
+> <code><a href = "https://www.kali.org/"><img height="20" src="https://img.icons8.com/color/240/000000/kali-linux.png"></a></code>
+> <code><a href = "https://www.perltutorial.org/"><img height="20" src="https://cdn.svgporn.com/logos/perl.svg"></a></code>
 
 ---
 
