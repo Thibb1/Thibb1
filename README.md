@@ -22,6 +22,8 @@
 
 <p align="center">🔐 TryHackMe <a href = "https://www.tryhackme.com/p/Thibb1">Thibb1</a></p>
 
+<p align="center"><a href = "https://github.com/Thibb1"><img src="https://img.shields.io/github/followers/thibb1?style=social"></a></p>
+
 ---
 
 <i>*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
