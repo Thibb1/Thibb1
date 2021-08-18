@@ -6,12 +6,16 @@
 
 <blockquote  align="center">
   <h3 align="center">Languages and tools 📚</h3>
-  <a href = "https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a>
-  <a href = "https://www.python.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a>
-  <a href = "https://www.markdownguide.org/basic-syntax/"><img height="20" src="https://api.nuget.org/v3-flatcontainer/westwind.aspnetcore.markdown/3.4.5/icon"></a>
-  <a href = "https://code.visualstudio.com/docs/introvideos/basics"><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
-  <a href = "https://www.kali.org/"><img height="20" src="https://img.icons8.com/color/240/000000/kali-linux.png"></a>
-  <a href = "https://www.perltutorial.org/"><img height="20" src="https://cdn.svgporn.com/logos/perl.svg"></a>
+  <p align="center">
+    <a href = "https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a>
+    <a href = "https://www.python.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img height="20" src="https://api.nuget.org/v3-flatcontainer/westwind.aspnetcore.markdown/3.4.5/icon"></a>
+    <a href = "https://code.visualstudio.com/docs/introvideos/basics"><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
+    <a href = "https://www.kali.org/"><img height="20" src="https://img.icons8.com/color/240/000000/kali-linux.png"></a>
+    <a href = "https://www.perltutorial.org/"><img height="20" src="https://cdn.svgporn.com/logos/perl.svg"></a>
+    <a href = "https://www.typescriptlang.org/docs/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.svg"></a>
+    <a href = "https://angular.io/docs"><img height="20" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4"></a>
+  </p>
 </blockquote>
 
 ---
