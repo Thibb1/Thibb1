@@ -3,9 +3,6 @@
 
 ## Hello and welcome to my profile 👋
 
-
-[![Thibault B. Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Thibault B. Linkedin")](https://www.linkedin.com/in/thibault-brumaire)
-
 Here you will find my publics **[projects](https://github.com/Thibb1?tab=repositories "Repositories")** that I have been working on. Apart from coding 💻 I also play electric guitar 🎸 and also love badminton 🏸
 
 At the time I work at **[DriveLock SE](https://www.drivelock.com "DriveLock SE")** for six month and am a student at **[Epitech](https://www.epitech.eu "Epitech")** 📚
@@ -15,3 +12,5 @@ Working on **[epitech-projects](https://github.com/Thibb1/epitech-projects "Epit
 Find me on [TryHackMe](https://www.tryhackme.com/p/Thibb1 "Thibb1") 🔐 and [CodingGames](https://www.codingame.com/profile/45b958910d398886366dd227ae6d29294267114 "Thibb1") 👩‍💻
 
 _If you want to see some cool stats and languages I use click [here](https://github.com/Thibb1/Thibb1/blob/main/stats.md "Stats")😎_
+
+[![Thibault B. Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Thibault B. Linkedin")](https://www.linkedin.com/in/thibault-brumaire)
