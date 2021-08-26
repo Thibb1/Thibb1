@@ -1,7 +1,26 @@
-<h3 align="center"> 🚩 Current Project: <a href = "https://github.com/Thibb1/epitech-projects">epitech-projects</a></h3>
+# Thibb1 statistics 🎯
+
+## Github stats 📊
+
+[![Follow @Thibb1](https://img.shields.io/github/followers/thibb1?style=social "Follow @Thibb1")](https://github.com/Thibb1)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Thibb1 "View @Thibb1")](https://github.com/Thibb1)
+
+![Thibb1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thibb1&show_icons=true&theme=tokyonight)
+
+## Languages and tools 📚
+
+[![icon](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png "C documentation")](https://github.com/tuvtran/project-based-learning#cc)
+
+[![icon](icon "display")](link)
+
+[![icon](icon "display")](link)
+
+[![icon](icon "display")](link)
+
+[![icon](icon "display")](link)
 
 <blockquote  align="center">
-  <h3 align="center">Languages and tools 📚</h3>
   <p align="center">
     <a href = "https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a>
     <a href = "https://www.python.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a>
@@ -22,8 +41,7 @@
 
 <p align="center">🔐 TryHackMe <a href = "https://www.tryhackme.com/p/Thibb1">Thibb1</a></p>
 
-<p align="center"><a href = "https://github.com/Thibb1"><img src="https://img.shields.io/github/followers/thibb1?style=social"></a></p>
-<p align="center"><a href = "https://github.com/Thibb1"><img src="https://komarev.com/ghpvc/?username=Thibb1&color=blueviolet"></a></p>
+
 
 ---
 
