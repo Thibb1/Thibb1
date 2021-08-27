@@ -19,7 +19,7 @@
 <a href="https://www.typescriptlang.org/docs/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.svg"></a>
 <a href="https://angular.io/docs"><img height="20" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4"></a>
 
-[![Thibb1's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thibb1&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&langs_count=10 "Thibb1's top languages")](#)
+[![Thibb1's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thibb1&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide=html "Thibb1's top languages")](#)
 
 ## Wakatime stats ⏳
 
