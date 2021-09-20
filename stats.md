@@ -4,6 +4,8 @@
 
 [![Follow @Thibb1](https://img.shields.io/github/followers/thibb1?style=social "Follow @Thibb1")](https://github.com/Thibb1)
 [![Profile views](https://komarev.com/ghpvc/?username=Thibb1 "View @Thibb1")](https://github.com/Thibb1)
+[![Gist count](https://badges.pufler.dev/gists/Thibb1 "Thibb1 gists")](https://gist.github.com/Thibb1)
+[![Year count](https://badges.pufler.dev/years/Thibb1 "View @Thibb1")](https://github.com/Thibb1)
 
 [![Thibb1's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibb1&show_icons=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117 "Thibb1's GitHub stats")](#)
 
