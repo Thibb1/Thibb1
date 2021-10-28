@@ -1,5 +1,5 @@
 
-# Thibault Brumaire ✨
+# Thibault B. ✨
 
 ## Hello and welcome to my profile 👋
 
