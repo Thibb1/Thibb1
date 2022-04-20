@@ -7,7 +7,7 @@ Here you will find my publics **[projects](https://github.com/Thibb1?tab=reposit
 
 At the time I work at **[DriveLock SE](https://www.drivelock.com "DriveLock SE")** for six month and am a student at **[Epitech](https://www.epitech.eu "Epitech")** 📚
 
-Working on **[epitech-projects](https://github.com/Thibb1/epitech-projects "Epitech Projets")** 🚩
+Working on **[epitech-projects](https://github.com/Thibb1/epitech-projects "Epitech Projets")** 🚩 and **[TekNorm](https://github.com/Thibb1/TekNorm "TekNorm")**
 
 Find me on **[TryHackMe](https://www.tryhackme.com/p/Thibb1 "Thibb1")** 🔐
 and **[CodingGames](https://www.codingame.com/profile/45b958910d398886366dd227ae6d29294267114 "Thibb1")** 👩‍💻
