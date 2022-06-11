@@ -1,0 +1,47 @@
+<svg viewBox="0 0 500 100" width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Russo+One');
+    svg {
+      font-family: 'Russo One', sans-serif;
+    }
+    svg text {
+      text-transform: uppercase;
+      animation: stroke 5s infinite alternate;
+      stroke-width: 2;
+      stroke: url(#gradient);
+      fill: url(#gradient-text);
+    }
+    @keyframes stroke {
+      0% { stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2; }
+      80% { stroke-width: 3; }
+      100% { stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0; }
+    }
+  </style>
+  <text x="50%" y="50%" dy=".35em"
+        text-anchor="middle"
+        font-size="140px">
+    Thibb1
+  </text>
+  <defs>
+    <linearGradient id="gradient">
+      <stop offset="0%" stop-color="rgba(255, 0, 76, 1)" />
+      <stop offset="100%" stop-color="rgba(56, 40, 202, 1)" />
+      <animate attributeName="x1" values="0;0;1;1;0" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y1" values="0;1;1;0;0" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="1;1;0;0;1" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="1;0;0;1;1" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="gradient-text">
+      <stop offset="0%" stop-color="rgba(255, 0, 76, 1)">
+        <animate attributeName="stop-opacity" values="0;0;1;0;0;" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="rgba(56, 40, 202, 1)">
+        <animate attributeName="stop-opacity" values="0;0;1;0;0;" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <animate attributeName="x1" values="0;0;1;1;0" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y1" values="0;1;1;0;0" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="1;1;0;0;1" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="1;0;0;1;1" keyTimes="0;.25;.5;.75;1" dur="5s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+</svg>
