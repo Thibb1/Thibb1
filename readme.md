@@ -73,7 +73,7 @@
 
 ![][b6]
 
-[0]: https://epitech.eu/
+[0]: https://github.com/Thibb1/epitech-projects
 [1]: https://www.linkedin.com/company/drivelockse/?trk=public_profile-settings_experience-item_profile-section-card_subtitle-click
 [2]: https://www.linkedin.com/in/thibault-brumaire
 [3]: https://www.hackerrank.com/Thibb1
