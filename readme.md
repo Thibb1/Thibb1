@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="./src/Thibb1.svg" alt="Thibb1" />
+  <a href="https://brumai.re" title="brumai.re">
+    <img src="./src/Thibb1.svg" alt="Thibb1" />
+  </a>
 </h1>
 
 ### Frontend skills
