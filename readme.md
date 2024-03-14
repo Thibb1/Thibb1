@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://brumai.re" title="brumai.re">
+  <a href="https://brumai.re" title="brumai.re" target="_blank">
     <img src="./src/Thibb1.svg" alt="Thibb1" />
   </a>
 </h1>
